@@ -25,14 +25,13 @@
 ![An image showcasing a generated city and a zoomed in view of an alleyway ](images/mincraft_picture_zoom_figure.png)
 ![An animation of the generation](images/mc_hamr.gif)
 
-![The general approach of MCHAMR](images/model_new.png)
-
 ## How this Works
 This contains code for the method *MCHAMR*, which composes simple, low-level level generators together to generate large-scale structures. 
 
 We specifically apply this method to [Minecraft](https://www.minecraft.net/) to generate towns and cities, and use the recent PCG method [PCGNN](https://github.com/Michael-Beukman/PCGNN) for these low-level generators.
 
 For more information about our [Evocraft](https://evocraft.life/) submission, which used a very similar method, please see [here](https://github.com/Michael-Beukman/Evocraft22_PCGNN).
+![The general approach of MCHAMR](images/model_new.png)
 ## Environment Setup
 To set up your python environment, do the following to create an environment with the correct version.
 ```
