@@ -1,7 +1,7 @@
 # MCHAMR - Multilevel Composition of Hierarchical and Adaptive Models via Recursion
 
 <p align="center">
-<a href="#how-this-works">Generation Approach</a> &mdash; <a href="#get-started">Get Started</a> &mdash; <a href="#demo">Demo</a> &mdash; <a href="#examples">Examples</a> 
+<a href="#how-this-works">Generation Approach</a> &mdash; <a href="#get-started">Get Started</a> &mdash; <a href="#demo">Demo</a> &mdash; <a href="#examples">Examples</a>  &mdash; <a href="https://arxiv.org/abs/2302.01561">Paper</a> 
 </p>
 
 - [MCHAMR - Multilevel Composition of Hierarchical and Adaptive Models via Recursion](#mchamr---multilevel-composition-of-hierarchical-and-adaptive-models-via-recursion)
@@ -24,6 +24,8 @@
 
 ![An image showcasing a generated city and a zoomed in view of an alleyway ](images/mincraft_picture_zoom_figure.png)
 ![An animation of the generation](images/mc_hamr.gif)
+
+![The general approach of MCHAMR](images/model_new.png)
 
 ## How this Works
 This contains code for the method *MCHAMR*, which composes simple, low-level level generators together to generate large-scale structures. 
